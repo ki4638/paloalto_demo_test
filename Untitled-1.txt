@@ -1,2 +1,2 @@
-access key = "safdsadfsadfasdf"
-secret key = "klnlkasfdlknsafklas/adfkljnslflksanfklnsa"
+access_key = "safdsadfsadfasdf"
+secret_key = "klnlkasfdlknDDsafklas/adfkljnslflksanfklnsa"
